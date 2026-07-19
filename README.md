@@ -30,7 +30,7 @@ Quality data is the foundation of this model. I manually annotated frames to cre
 
 | Raw Frame | Annotated Data |
 | :---: | :---: |
-| ![Modem Frame 1](https://github.com/OMIZOOMI/hardware-state-edge-ai-detector/blob/main/Screenshot%202026-07-19%20at%2010.53.11%E2%80%AFPM.png) | ![Annotated Frame 1](https://github.com/OMIZOOMI/hardware-state-edge-ai-detector/raw/main/Screenshot%202026-07-16%20at%2011.36.02%E2%80%AFAM.png) |
+| ![Modem Frame 1](https://github.com/OMIZOOMI/hardware-state-edge-ai-detector/blob/main/Screenshot%202026-07-19%20at%2010.53.11%E2%80%AFPM.jpg) | ![Annotated Frame 1](https://github.com/OMIZOOMI/hardware-state-edge-ai-detector/raw/main/Screenshot%202026-07-16%20at%2011.36.02%E2%80%AFAM.png) |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:004D40,50:00897B,100:26A69A&height=3&width=1000" width="100%"/>
 
